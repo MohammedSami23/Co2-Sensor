@@ -59,6 +59,9 @@ Edge Impulse
  
 
  And after an estimated 7 minutes of training the flatten block has produce a results shown in the bellow figure:
+
+ !(https://github.com/MohammedSami23/Co2-Sensor/assets/169708630/2733ba54-58b3-45fd-8224-dc93d3acd0e6)
+
  
  
 
