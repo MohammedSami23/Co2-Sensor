@@ -60,7 +60,27 @@ Edge Impulse
 
  And after an estimated 7 minutes of training the flatten block has produce a results shown in the bellow figure:
 
- !(https://github.com/MohammedSami23/Co2-Sensor/assets/169708630/2733ba54-58b3-45fd-8224-dc93d3acd0e6)
+![Pic1](https://github.com/MohammedSami23/Co2-Sensor/assets/169708630/cc42b062-6c8a-471c-87e8-b4166507b0ba)
+
+After testing, the accuracy from the modal testing output shows that we have an accuracy of 94.74%.All data in your test set is classified by the neural network. Items in green are classified correctly and items in red are misclassified.
+
+![Pic2](https://github.com/MohammedSami23/Co2-Sensor/assets/169708630/5cd381d6-e03b-4520-b87e-a1ad37dd6ec6)
+
+After choosing the maximum absolute regression error of 4, and based on the last training, we have a loss of 9.22, and the data explorer has been shown as: 
+
+![Pic4](https://github.com/MohammedSami23/Co2-Sensor/assets/169708630/de827852-83c6-498f-9f2f-abaee1969854)
+
+# Acknowledgments:
+I extend my thanks to all those who contributed to the success and completion of this project to reach its current results, and we especially thank our doctor, Dr. Rama Sami, for helping us in providing the tools for this project.
+
+# Conclusion
+
+The Arduino Nano 33 BLE is a choice, for projects due to its compact size and Bluetooth Low Energy (BLE) capability making wireless data transmission effortless for remote monitoring. Incorporating Edge Impulse takes things up a notch by enabling the development of machine learning models to detect CO2 levels enhancing the effectiveness of your monitoring system.
+
+What makes this project stand out is its focus on open source components encouraging experimentation and innovation to devise solutions for sensing and IoT applications. The flexibility allows you to adapt the system for purposes whether its monitoring air quality in areas or tracking wildlife in natural settings.
+
+At its essence this project aims to create interconnected systems that safeguard our surroundings. It represents a significant stride towards achieving objectives such, as sustainability improved health outcomes and responsible resource management.
+ 
 
  
  
