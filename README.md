@@ -1,4 +1,4 @@
-# Co2-Sensor
+# Carbon FootPrint Sensor
 Done by: 
 
 Mohammed Albalam  221424981
